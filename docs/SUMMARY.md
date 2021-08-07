@@ -1,0 +1,8 @@
+* [Home](README.md)
+    * [Support](team/support.md)
+        * [Ticket](team/ticket.md)
+    * [Citybuild](server/citybuild.md)
+        * [Städte](towns/towns.md)
+        * [Farming Skills](server/citybuild_skills.md)
+        * [Techniker Skill](server/citybuild_techniker.md)
+    * [Team](team/mitglieder.md)
