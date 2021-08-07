@@ -25,3 +25,8 @@ jobs:
         with:
           name: Wiki-HTML
           path: /home/runner/work/SR-DOCS/SR-DOCS/site/
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: /home/runner/work/SR-DOCS/SR-DOCS/site/ # The folder the action should deploy.
