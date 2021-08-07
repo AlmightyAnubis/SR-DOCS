@@ -9,7 +9,7 @@ Ziel dieser Dokumentation ist es, Spielern den Server so einfach wie möglich un
 
 Material Dokumentation: https://squidfunk.github.io/mkdocs-material/reference/data-tables/
 
-Lokal bauen:
+Lokal erzeugen:
 
 ```
 pip install mkdocs
