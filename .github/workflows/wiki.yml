@@ -20,11 +20,6 @@ jobs:
         continue-on-error: true
         run: |
           mkdocs build
-      - name: Create Page
-        uses: actions/upload-artifact@v2
-        with:
-          name: Wiki-HTML
-          path: /home/runner/work/SR-DOCS/SR-DOCS/site/
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
