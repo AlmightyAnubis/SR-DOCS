@@ -5,10 +5,10 @@ edit_uri: https://github.com/Abwasserrohr/SR-DOCS/blob/main/docs/
 use_directory_urls: false
 
 extra:
-  alternate:
-    - name: Deutsch
-      link: https://skyroad.me/docs/
-      lang: de
+  #alternate:
+  #  - name: Deutsch
+  #    link: https://skyroad.me/docs/
+  #    lang: de
   servervars:
     currencyname: Taler
     startcurrency: 250
@@ -18,9 +18,22 @@ extra:
 theme:
   name: material
   language: de
+  custom_dir: docs/home_theme/
+  static_templates:
+    - 404.html
   palette:
-    primary: black
-    accent: blue
+    - scheme: default
+      primary: amber
+      accent: orange
+      toggle:
+        icon: material/eye
+        name: Wechsle in den dunklen Modus
+    - scheme: slate
+      primary: amber
+      accent: orange
+      toggle:
+        icon: material/eye-outline
+        name: Wechsle in den hellen Modus
   icon:
     repo: fontawesome/brands/github
   favicon: https://skyroad.me/wp-content/uploads/2021/02/cropped-skyroadlogosmaall-2-32x32.png
@@ -46,7 +59,7 @@ plugins:
   - section-index
   - redirects:
       redirect_maps:
-        introduction.md: README.md
+        introduction.md: index.md
 
 markdown_extensions:
   - admonition

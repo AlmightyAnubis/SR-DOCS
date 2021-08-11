@@ -1,4 +1,5 @@
-* [Home](README.md)
+* [Home](index.md)
+* [Citybuild](server/citybuild.md)
     * [Support](team/support.md)
         * [Ticket](team/ticket.md)
     * [Citybuild](server/citybuild.md)
