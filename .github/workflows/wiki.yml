@@ -1,0 +1,27 @@
+name: Wiki Builder
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.7]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Python setup ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Build Wiki
+        continue-on-error: true
+        run: |
+          mkdocs build
+      - name: Create Page
+        uses: actions/upload-artifact@v2
+        with:
+          name: Wiki-HTML
+          path: /home/runner/work/SR-DOCS/SR-DOCS/site/
