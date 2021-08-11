@@ -5,11 +5,11 @@ Dies ist die Dokumentation für den Skyroad Minecraft Server.
 
 Ziel dieser Dokumentation ist es, Spielern den Server so einfach wie möglich und vollständig in der Funktionsweise zu zeigen.
 
-**Zur Dokumentation: [Skyroad Server Dokumentation](https://abwasserrohr.github.io/SR-DOCS/)** (WIP)
+**Zur Dokumentation: [Skyroad Server Dokumentation](https://skyroad.me/docs/)**
 
 Material Dokumentation: https://squidfunk.github.io/mkdocs-material/reference/data-tables/
 
-Lokal erzeugen:
+Lokal bauen:
 
 ```
 pip install mkdocs
