@@ -3,12 +3,15 @@
     ![Skillmeister](https://files.steempeak.com/file/steempeak/skyroad-wiki/Ye61I2zf-2019-12-18_15.04.45.png)
     Hier ist der Skillmeister des Survivals sichtbar, er ist einer der vier Dorfbewohner, die man direkt in der Spawnburg finden kann.
 
-
 Im Citybuild ist es Spielern möglich, Fertigkeiten zu nutzen, die einem im Alltag helfen können. Meistens erhöhen diese den Ertrag und verringern die benötigte Zeit, um an Ressourcen zu kommen.
 Um die Fertigkeiten zu erlernen, kann man den Skillmeister beim Spawn des Survivals aufsuchen, er kann einem alle verfügbaren Fertigkeiten für Eventpunkte beibringen.
 
 Fertigkeiten können einem im Spielverlauf sehr helfen, doch nicht jede Fertigkeit ist genauso sinnvoll für jeden, lies dir die verschiedenen Fertigkeiten auf dieser Seite durch um sicherzustellen, dass die Fertigkeit, die du gewählt hast, die Richtige ist.
 Sobald man eine Fertigkeit bei dem Skillmeister gelernt hat, wird man in dieser immer besser werden, währenddessen man die zur Fertigkeit passende Tätigkeit ausübt.
+
+!!! warning "Beachte"
+    Die Spezialfähigkeiten der Skills lassen sich nicht einsetzen, während ein Item in der Zweithand liegt.
+
 
 ## 1. Bergbau
 Der Bergbau ist ein großer und auch wichtiger Bestandteil des Spiels. Ein Vorteil dieser Fertigkeit ist die **höhere Ausbeute aus jedem einzelnen Erz**. Diese wird noch weiter gesteigert, wenn erfahrene Bergbauer ihre Fertigkeiten aktivieren und einsetzen (Rechtsklick mit einer Spitzhacke).
