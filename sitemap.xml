@@ -11,7 +11,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://skyroad.me/docs/events/bauevent.html</loc>
+         <lastmod>2021-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://skyroad.me/docs/funktionen/cobblestone_generator.html</loc>
+         <lastmod>2021-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://skyroad.me/docs/funktionen/eventpunkte.html</loc>
+         <lastmod>2021-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://skyroad.me/docs/funktionen/fangbehaelter.html</loc>
+         <lastmod>2021-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://skyroad.me/docs/funktionen/storage_unit.html</loc>
+         <lastmod>2021-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://skyroad.me/docs/funktionen/taler.html</loc>
          <lastmod>2021-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
