@@ -99,6 +99,10 @@ Sortiermaschinen können viel Arbeit abnehmen, da diese auch große Mengen an ve
 
 Anders als Trichter können Saugmaschinenen durch die starke Leistung weitreichender Gegenstände einsammeln, automatisch sortieren und auch direkt mit einem Röhrensystem verbunden werden. Hinweis: Fremde Items unerlaubt absaugen ist verboten.
 
+!!! note "Information"
+    Saugmaschinen können in vielen Fällen sehr praktisch sein, jedoch ist die Saugleistung auf einen Radius von maximal 10 Blöcken reduziert. Anstelle viele einzelne Saugmaschinen mit komplexen Systemen aufzustellen, kann man als Techniker auch die [Supersauger](#12-supersauger) nutzen, die einen gesamten Chunk absaugen können.
+
+
 1. Erstellung von Saugmaschinen
 
     1. Zuerst muss man an dem Ort stehen, an dem Items aufgefangen werden sollen. Es wird ein Schild und Items für eine Clock benötigt, hier ist eine langsame Clock mit z. B. Trichtern wünschenswert, da die Saugmaschine sonst überhitzen kann.
@@ -257,3 +261,17 @@ Mit der Clock können Aktionen in einem definierten Zeitintervall ausgelöst wer
     ```
     2. Hinter auf der anderen Seite des Blocks muss ein Schalter platziert werden, sobald die Zeit vergangen ist, wird dieser automatisch kurz umgelegt.
     3. Fragen dazu? Wir helfen auch über ein [[Ticket]] direkt.
+
+## 12. Supersauger
+Mit dem Supersauger werden alle Items, die in dem Chunk des Supersaugers platziert werden, zum Supersauger teleportiert oder in eine Kiste über dem Supersauger gesaugt. Während der Supersauger sehr teuer herzustellen ist, so erlaubt er sehr effiziente Farmmethoden durch die starke Saugkraft.
+
+1. Erstellen und platzieren von Supersaugern
+    1. Supersauger können mit einem Crafting Rezept hergestellt werden:
+    ![Crafting Rezept für Supersauger](assets/images/crafting_supersauger.png)
+    2. Um einen Supersauger zu platzieren, muss man ein Techniker sein und den Supersauger innerhalb einer Stadt platzieren.
+	3. Jetzt saugt der Supersauger alle Items aus dem Chunk an, in welchem er platziert wurde.
+	4. Wenn man die Items lieber in einer Kiste haben will, kann man über dem Supersauger auch eine Kiste platzieren und diese mit einer [Röhre](#9-rohren) verbinden, um die Items effizient zu transportieren.
+
+    !!! note "Wichtig"
+        Bevor ein Chunk mit einem Supersauger von einer Stadt entfernt wird, sollte der Supersauger aus Sicherheitsgründen abgebaut werden, damit dieser nicht versehentlich zerstört wird.
+
