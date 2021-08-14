@@ -13,7 +13,12 @@ extra:
     currencyname: Taler
     startcurrency: 250
     eventcurrency: Eventpunkte
+    eventcurrencyone: Eventpunkt
     eventcurrencyshort: EP
+    citybuild_back_price: 500
+    citybuild_buyweather_clear_price: 250
+    citybuild_buyweather_rain_price: 500
+    citybuild_buyweather_thunder_price: 1000
 
 theme:
   name: material
@@ -76,3 +81,4 @@ markdown_extensions:
   - pymdownx.snippets
 
 extra_javascript:
+  - https://cdn.plyr.io/3.6.8/plyr.js
