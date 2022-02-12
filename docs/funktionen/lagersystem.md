@@ -7,7 +7,10 @@ Um auf Gegenstände zuzugreifen, platziere einen Pult über dem Controller und k
 === "Controller Rezept"
     ![Controller_Rezept](../assets/images/blockNet/Controller.png)
 === "Aufgestellter Controller mit Pult"
+    !!! info inline end
+        Mit dem Pult können Gegenstände aus den Speicherplatten entnommen werden, die sich im Controller befinden, es handelt sich dabei um einen gewöhnlichen Pult, der auf den Controller gestellt wird.
     ![Basic_Controller](../assets/images/blockNet/Basic_Controller.png)
+
 
 ## 2. Data Disks
 Speicherplatten können über die Werkbank hergestellt werden.
@@ -26,7 +29,7 @@ Schaue in deinem Rezeptbuch nach, um das Rezept zu finden.
 Netzwerke haben eine begrenzte Anzahl von Verbindungen.
 Verbindungen können mit Blitzableitern und (gewachsten) Kupferblöcken erstellt werden. Kupferblöcke verbinden sich mit allen Seiten, während sich die Blitzableiter nur in einer gerade Linie verbindet. Wenn Kupfer oxidiert, wird die Verbindung unterbrochen. Stelle also sicher, dass du das Kupfer mit Wachs behandelst oder halte eine Axt bereit. 
 
-!!! note "Limitierungen"
+!!! warning "Verbindungslimit"
     Die Kupferverbindungen kommen bei größeren Systemen an ihre Grenzen, Controller können derzeit nicht mehr als **1000 Verbindungen** erreichen.
 
 ## 4. Export und Import
