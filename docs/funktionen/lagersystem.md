@@ -1,4 +1,4 @@
-Die BlockNet genannten Lagersysteme sind eine einfache Möglichkeit, viele Gegenstände an einem Ort sicher aufzubewahren, mithilfe der Speicherplatten (Data Disks) können auch größere Mengen an Gegenständen leicht von A nach B transportiert werden.
+Die BlockNet genannten Lagersysteme sind eine einfache Möglichkeit, viele Gegenstände an einem Ort sicher aufzubewahren, mithilfe der Speicherplatten (Storage Disks) können auch größere Mengen an Gegenständen leicht von A nach B transportiert werden.
 
 ## 1. Controller
 Die zentrale Einheit des Netzwerks. Der Controller kann mehrere Speicherplatten halten.
@@ -11,7 +11,7 @@ Um auf Gegenstände zuzugreifen, platziere einen Pult über dem Controller und k
         Mit dem Pult können Gegenstände aus den Speicherplatten entnommen werden, die sich im Controller befinden, es handelt sich dabei um einen gewöhnlichen Pult, der auf den Controller gestellt wird.
     ![Basic_Controller](../assets/images/blockNet/Basic_Controller.png)
 
-## 2. Speicherplatte (Data Disk)
+## 2. Speicherplatte (Storage Disk)
 Speicherplatten können über die Werkbank hergestellt werden.
 Die Platten können auch in der Werkbank verbunden werden, um ihre Speicherkapazität zu verbessern.
 Schaue in deinem Rezeptbuch nach, um das Rezept zu finden.
