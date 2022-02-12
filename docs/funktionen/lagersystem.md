@@ -27,7 +27,12 @@ Schaue in deinem Rezeptbuch nach, um das Rezept zu finden.
     === "Speicherplatte erweitern"
         ![Basic_Controller](../assets/images/blockNet/Disk_Upgrade.png)
 
+=== "Einfache Speicherplatte"
+    ![Basic_Controller](../assets/images/blockNet/Disk_Base.png)
 
+=== "Speicherplatte erweitern"
+    ![Basic_Controller](../assets/images/blockNet/Disk_Upgrade.png)
+    
 ## 3. Verbindungen
 Netzwerke haben eine begrenzte Anzahl von Verbindungen.
 Verbindungen können mit Blitzableitern und (gewachsten) Kupferblöcken erstellt werden. Kupferblöcke verbinden sich mit allen Seiten, während sich die Blitzableiter nur in einer gerade Linie verbindet. Wenn Kupfer oxidiert, wird die Verbindung unterbrochen. Stelle also sicher, dass du das Kupfer mit Wachs behandelst oder halte eine Axt bereit. Verbindungslimit: 1000 Blöcke
