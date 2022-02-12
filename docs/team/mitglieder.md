@@ -7,10 +7,10 @@ Hier findest du die aktuellen Teammitglieder auf Skyroad.
 | :--- | :--- | :--- |
 | ![](assets/images/heads/Abwasserrohr_Kopf.png) | Abwasserrohr | Operator |
 | ![](assets/images/heads/Flyerchen_Kopf.png) | Flyerchen | Survival Administrator |
-| ![](assets/images/heads/Trentox_Kopf.png) | Trentox | SkyBlock Administrator |
+| ![](assets/images/heads/Almighty_Anubis_Kopf.png) | Almighty_Anubis | SkyBlock Administrator |
 | ![](assets/images/heads/Krippi_Kopf.png) | Krippi | Developer |
-| ![](assets/images/heads/Daniel_1111_Kopf.png) | Daniel_1111 | Supporter |
-| ![](assets/images/heads/Almighty_Anubis_Kopf.png) | Almighty_Anubis | Supporter |
+| ![](assets/images/heads/Daniel_1111_Kopf.png) | Daniel_1111 | Moderator (Testphase) |
+| ![](assets/images/heads/Trentox_Kopf.png) | Trentox | Social Media |
 | ![](assets/images/heads/Cal_Gordun_Kopf.png) | Cal_Gordun | Builder |
 | ![](assets/images/heads/MountnDewd_Kopf.png) | MountnDewd | Builder |
 
