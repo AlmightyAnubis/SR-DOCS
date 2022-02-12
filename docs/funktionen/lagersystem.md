@@ -31,7 +31,7 @@ Netzwerke haben eine begrenzte Anzahl von Verbindungen.
 Verbindungen können mit Blitzableitern und (gewachsten) Kupferblöcken erstellt werden. Kupferblöcke verbinden sich mit allen Seiten, während sich die Blitzableiter nur in einer gerade Linie verbindet. Wenn Kupfer oxidiert, wird die Verbindung unterbrochen. Stelle also sicher, dass du das Kupfer mit Wachs behandelst oder halte eine Axt bereit. 
 
 !!! warning "Verbindungslimit"
-    Die Kupferverbindungen kommen bei größeren Systemen an ihre Grenzen, Controller können derzeit nicht mehr als **1000 Verbindungen** erreichen.
+    Die Kupferverbindungen kommen bei größeren Systemen an ihre Grenzen, Controller können derzeit nicht mehr als **1000 Verbindungen** erreichen. Im Controller Menü kannst du die derzeitige Größe des Systems überwachen.
 
 ## 4. Export und Import
 Klebrige Kolben können Gegenstände importieren, während normale Kolben Gegenstände exportieren. Verwenden ein Konfigurationsschild, um die Kolben zu konfigurieren. Ein Exporter funktioniert nur, wenn ein Konfigurationsschild mit einer Whitelist angelegt ist. Der Importer funktioniert immer, aber du kannst ihn mit einem Konfigurationsschild bestimmte Gegenstände auf eine White- oder Blacklist setzen.
