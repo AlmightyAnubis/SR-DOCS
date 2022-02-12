@@ -9,8 +9,7 @@ Um auf Gegenstände zuzugreifen, platziere einen Pult über dem Controller und k
 === "Aufgestellter Controller mit Pult"
     !!! info inline
         Mit dem Pult können Gegenstände aus den Speicherplatten entnommen werden, die sich im Controller befinden, es handelt sich dabei um einen gewöhnlichen Pult, der auf den Controller gestellt wird.
-    ![Basic_Controller](../assets/images/blockNet/Basic_Controller.png)
-    !!! inline end ""
+    !!! info ""
         ![Basic_Controller](../assets/images/blockNet/Basic_Controller.png)
 
 ## 2. Data Disks
