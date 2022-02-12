@@ -1,24 +1,35 @@
-Update Notes:
- - Das Tutorial Buch wurde um alle Infos zum neuen Update ergänzt
- - Die Lagersysteme werden abgeschafft und gegen ein neues System ersetzt. Die alten Lager funktionieren aber erstmal weiter, können jedoch nicht mehr gecraftet werden.
- - Infos zum neuen Lagersystem sind hier im Wiki ->Link zu Wiki oder im Tutorial Buch
- - Ab sofort kann Erde endlos erhalten werden, nur die Menge an Farmland ist jetzt begrenzt. Die Menge an Farmland auf den Startinseln wurde in dem Zusammenhang hoch gesetzt.
- - Sand wird jetzt nicht mehr einfach so von Creepern gedroppt. Der Sand droppt ab sofort mit einer relativ hohen Chance dann, wenn ein Creeper ein Skellet tötet.
- - Hexen werfen wieder Tränke, der Schwäche Trank (weakness) wurde jedoch gegen Trank des langsamen Falls (slow falling) ersetzt. Zudem macht sich die Hexe manchmal unsichtbar, wenn sie wenig leben hat.
+
+Die BlockNet genannten Lagersysteme sind eine einfache Möglichkeit, viele Gegenstände an einem Ort sicher aufzubewahren, mithilfe der `Data Discs` können auch größere Mengen an Gegenständen leicht von A nach B transportiert werden.
+
+!!! info inline end ""
+    ![Basic_Controller](../assets/images/blockNet/Basic_Controller.png)
+    ![Basic_Controller](../assets/images/blockNet/Basic_Net_Structure.png)
+    ![Basic_Controller](../assets/images/blockNet/Config_Sign.png)
+    ![Basic_Controller](../assets/images/blockNet/Controller.png)
+    ![Basic_Controller](../assets/images/blockNet/Disk_Base.png)
+    ![Basic_Controller](../assets/images/blockNet/Disk_Upgrade.png)
+    ![Basic_Controller](../assets/images/blockNet/Network_with_ImExporter.png)
+    ![Basic_Controller](../assets/images/blockNet/Basic_Controller.png)
+    ![Basic_Controller](../assets/images/blockNet/Basic_Controller.png)
+    ![Basic_Controller](../assets/images/blockNet/Basic_Controller.png)
 
 
-{
-  "translationsMap": {
-    "net_tutorial": "BlockNet",
-    "controller": "Controller",
-    "controller_content": "The central unit of the network.\nStores the disks.\nTo access items, place a lectern\non top and rightclick it.\n",
-    "disk": "Data Disks",
-    "disk_content": "Storage Disks can be craftet.\nCraft them together,\nto upgrade them.\nCheck your recipe book\nfor the recipe.",
-    "connections": "Connections",
-    "connections_content": "Networks have a limited amount of connections.\nConnections are made with lightning rods and\n(waxed) copper blocks. Blocks connect to all\nsides, while the rod only connects in a\nstraigt line. If copper oxidizes, the\nconnection will be broken. So make sure\nyou wax it or hold a axe ready.\nConnection Limit:",
-    "ex_and_import": "Ex-/Importer",
-    "ex_and_import_content": "Sticky pistons can import\nitems while pistons will\nexport them. Use a\nconfig sign to configure\nthem. A exporter only\nworks if a config sign\nwith whitelist is put on\nit. Importer always works\nbut you can configure it with\na config sign.",
-    "config_sign": "Config sign",
-    "config_sign_content": "After placing you\ncan right click it\nto make configurations.\n(See recipe section)"
-  }
-}
+
+# Controller
+Die zentrale Einheit des Netzwerks.\nSpeichert die Datenträger.
+Um auf Gegenstände zuzugreifen, platziere einen Pult über dem Controller und klicke mit der rechten Maustaste darauf.
+
+# Data Disks
+Speicherplatten können über die Werkbank hergestellt werden.
+Die Platten können auch in der Werkbank verbunden werden, um ihre Speicherkapazität zu verbessern.
+Schaue in deinem Rezeptbuch nach, um das Rezept zu finden.
+
+# Verbindungen
+Netzwerke haben eine begrenzte Anzahl von Verbindungen.
+Verbindungen können mit Blitzableitern und (gewachsten) Kupferblöcken erstellt werden. Kupferblöcke verbinden sich mit allen Seiten, während sich die Blitzableiter nur in einer gerade Linie verbindet. Wenn Kupfer oxidiert, wird die Verbindung unterbrochen. Stelle also sicher, dass du das Kupfer mit Wachs behandelst oder halte eine Axt bereit. Verbindungslimit: 1000 Blöcke
+
+# Export und Import
+Klebrige Kolben können Gegenstände importieren, während normale Kolben Gegenstände exportieren. Verwenden ein Konfigurationsschild, um die Kolben zu konfigurieren. Ein Exporter funktioniert nur, wenn ein Konfigurationsschild mit einer Whitelist angelegt ist. Der Importer funktioniert immer, aber du kannst ihn mit einem Konfigurationsschild bestimmte Gegenstände auf eine White- oder Blacklist setzen.
+
+# Konfigurationsschild
+Nachdem du das Konfigurationsschild auf oder an einen Kolben gestellt hast, kannst du mit Rechtsklick auf das Schild das Konfigurationsmenü öffnen, in diesem kannst du bestimmte Blöcke in eine White- oder Blacklist hinzufügen, welche von dem Kolben erfasst werden soll.
