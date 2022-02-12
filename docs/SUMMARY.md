@@ -7,8 +7,8 @@
         * [Farming Skills](server/citybuild_skills.md)
         * [Techniker Skill](server/citybuild_techniker.md)
         * [Befehle](befehle/citybuild_befehle.md)
-    * [SkyBlock](server/skyblock.md)
-        * [Lagersysteme (BlockNet)](funktionen/lagersystem.md)
-    * Events
-        * [Bauevent](events/bauevent.md)
-    * [User Team](team/mitglieder.md)
+* [SkyBlock](server/skyblock.md)
+    * [Lagersysteme (BlockNet)](funktionen/lagersystem.md)
+* Events
+    * [Bauevent](events/bauevent.md)
+* [User Team](team/mitglieder.md)
