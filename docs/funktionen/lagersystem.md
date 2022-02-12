@@ -19,6 +19,7 @@ Schaue in deinem Rezeptbuch nach, um das Rezept zu finden.
     Verbindungen mittels Kupferverbindung
     
 ??? note "Rezept für Speicherplatten"
+
     === "Einfache Speicherplatte"
 
         ![Basic_Controller](../assets/images/blockNet/Disk_Base.png)
