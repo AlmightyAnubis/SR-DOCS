@@ -7,8 +7,11 @@ Um auf Gegenstände zuzugreifen, platziere einen Pult über dem Controller und k
 === "Controller Rezept"
     ![Controller_Rezept](../assets/images/blockNet/Controller.png)
 === "Aufgestellter Controller mit Pult"
+
     !!! info inline
+    
         Mit dem Pult können Gegenstände aus den Speicherplatten entnommen werden, die sich im Controller befinden, es handelt sich dabei um einen gewöhnlichen Pult, der auf den Controller gestellt wird.
+        
     !!! info ""
         ![Basic_Controller](../assets/images/blockNet/Basic_Controller.png)
 
