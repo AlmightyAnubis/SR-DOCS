@@ -50,7 +50,7 @@ mkdocs-literate-nav==0.4.0
     # via -r requirements.in
 mkdocs-macros-plugin==0.5.12
     # via -r requirements.in
-mkdocs-material==7.2.2
+mkdocs-material==8.2.0
     # via
     #   -r requirements.in
     #   mkdocs-material-extensions
