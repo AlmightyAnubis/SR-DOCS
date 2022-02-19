@@ -1,5 +1,5 @@
 mkdocs>=1.2
-mkdocs-material>=7.1.8
+mkdocs-material>=8.2.0
 mkdocs-literate-nav>=0.2
 mkdocs-section-index>=0.2.3
 mkdocs-redirects>=1.0.1
