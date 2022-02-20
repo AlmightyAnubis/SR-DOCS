@@ -1,3 +1,7 @@
 .md-nav__link {
     justify-content: normal;
 }
+.md-tabs__link--active {
+    border-bottom: 3px solid black;
+    padding-bottom: 13px;
+}
