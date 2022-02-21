@@ -60,8 +60,7 @@ Der temporäre Block platziert sich und baut sich danach in der gewählten Gesch
 #### Block
 :octicons-beaker-24: Verfügbar ab Level 20
 
-
-Der Block platziert sich dauerhaft, bis entweder der Run neugestartet oder der Run beendet wird. Wie beim [](#Temporärer Block) kann man den Ort des Blocks auswählen, indem man schleicht und gleichzeitig mittels Rechtsklick auf den gewünschten Block klickt.
+Der Block platziert sich dauerhaft, bis entweder der Run neugestartet, der Run beendet wird oder der Aktionsblock gestoppt oder resettet wird. Wie beim [Temporären Block](#Temporärer Block) kann man den Ort des Blocks auswählen, indem man schleicht und gleichzeitig mittels Rechtsklick auf den gewünschten Block klickt.
 !!! note "Beachte"
 	Die Blöcke werden nicht wirklich auf dem Server platziert, sondern dem Spieler nur als Fake Block angezeigt, einem Spieler einen Luft Block zu schicken wird eine bestehende Wand nicht durchlässig machen. Willst du eine Wand in einem Run entfernen, platziere diese zunächst mit der Block Aktionskarte, um diese anschließend mit einer weiteren Block Aktionskarte durch Luft zu ersetzen.
 
