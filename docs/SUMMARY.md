@@ -9,6 +9,7 @@
         * [Befehle](befehle/citybuild_befehle.md)
 * [SkyBlock](server/skyblock.md)
     * [Lagersysteme (BlockNet)](funktionen/lagersystem.md)
+    * [Lootboxen](server/Lootboxen.md)
 * Events
     * [Bauevent](events/bauevent.md)
 * [Jump and Run](parkour/parkour.md)
