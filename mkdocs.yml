@@ -75,6 +75,11 @@ markdown_extensions:
       custom_checkbox: true
   - footnotes
   - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.highlight
   - pymdownx.magiclink
   - pymdownx.superfences:
