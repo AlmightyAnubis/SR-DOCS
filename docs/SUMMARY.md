@@ -8,6 +8,7 @@
         * [Techniker Skill](server/citybuild_techniker.md)
         * [Befehle](befehle/citybuild_befehle.md)
 * [SkyBlock](server/skyblock.md)
+    * [Erzgeneratoren](funktionen/cobblestone_generator.md)
     * [Lagersysteme (BlockNet)](funktionen/lagersystem.md)
     * [Lootboxen](server/Lootboxen.md)
 * Events
