@@ -15,9 +15,9 @@ Der Stein-Generator wird nicht beeinflusst und kann so genutzt werden um Stein u
 Um weniger Resourcen zu verlieren bietet es sich an, den Generator so zu automatisieren, das die Erze nicht so einfach verbrennen. Das kann man erreichen, indem man einen Trichter direkt unter den Generator platziert oder die generierten Blöcke mit einem Kolben herausschiebt. Bei der Variante mit dem Trichter verbrennen jedoch immernoch Items von Zeit zu Zeit. Zudem ist das nicht für den Nether-Generator anwendbar. Eine mögliche Anordnung eines Kolbens für die Generatoren ist unten zu sehen.
 
 
-=== "Overworld Generator Automatisiert"
+=== "Overworld Generator automatisiert"
     ![Bruchstein Generator Automatisiert](../assets/images/oreGen/Bruchstein_Automatisiert.png)
-=== "Nether Generator Automatisiert"
+=== "Nether Generator automatisiert"
     ![Basalt Generator Automatisiert](../assets/images/oreGen/Basalt_Automatisiert.png)
     
 ### Die Clock
@@ -34,14 +34,8 @@ Baut man das ganze Größer lässt sich ein Auszug des Generators erstellen. Im 
     
 ## Aktueller Status des Generators
 Um Infos zum Generator zu erhalten gibt es 2 Commands:
+
  - /is ore - Gibt einem Informationen über die Erzzusammensetzung auf dem aktuellen Level
  - /is generator - Gibt einem Information über das aktuelle Generator Level
-
-
-
-
-
-
-
 
 (Stand 24.02.2022)
