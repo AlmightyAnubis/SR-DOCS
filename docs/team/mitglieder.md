@@ -13,7 +13,7 @@ Hier findest du die aktuellen Teammitglieder auf Skyroad.
 | ![](assets/images/heads/Trentox_Kopf.png) | Trentox | Social Media |
 | ![](assets/images/heads/Cal_Gordun_Kopf.png) | Cal_Gordun | Builder |
 | ![](assets/images/heads/MountnDewd_Kopf.png) | MountnDewd | Builder |
-
+|  | Grauhaarsalat | Supporter |
 ## 2. Ehemalige Teammitglieder
 
 | Skin | Spielername | Position |
