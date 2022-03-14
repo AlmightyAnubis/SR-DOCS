@@ -39,7 +39,7 @@ Mit Homeportalen können sich Spieler zum Home des Homeportal Erstellers telepor
     ```
     hometeleport
     homename
-    nichts
+    Optional: private (Nur von dir verwendbar)
     nichts
     ```
     2. Spieler können nun auf das Schild klicken und werden zum Home teleportiert. Fallen sind nicht erlaubt.
