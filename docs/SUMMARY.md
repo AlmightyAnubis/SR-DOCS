@@ -6,6 +6,7 @@
         * [Städte](towns/towns.md)
         * [Farming Skills](server/citybuild_skills.md)
         * [Techniker Skill](server/citybuild_techniker.md)
+        * [Lagersysteme](funktionen/storage_unit.md)
         * [Befehle](befehle/citybuild_befehle.md)
 * [SkyBlock](server/skyblock.md)
     * [Erzgeneratoren](funktionen/cobblestone_generator.md)
