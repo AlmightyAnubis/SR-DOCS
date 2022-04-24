@@ -20,4 +20,4 @@ Die Erstellung einer Karte kostet 100 Kristalle, wenn du noch nicht gesammelt ha
 
 ## Kristalle und Erfahrung sammeln
 Für jede abgeschlossene Karte erhält man Kristalle und Erfahrung, jedoch kann man nicht die gleiche Karte mehrmals am Tag für Kristalle oder Erfahrung wiederholen.
-Mit steigender Erfahrung erhält man auch immer mehr Kristalle und [Aktionskarten], mit denen man im Baumodus vieles machen kann.
+Mit steigender Erfahrung erhält man auch immer mehr Kristalle und [[Aktionskarten]], mit denen man im Baumodus vieles machen kann.
