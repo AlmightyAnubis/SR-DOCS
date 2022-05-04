@@ -41,6 +41,8 @@ Habt ihr das Supplycamp platziert, öffnet sich bei euren Achievments ein neuer 
 Als nächstes solltet ihr eure Builder Hut platzier. Die Rezepte für alle Gebäude findet ihr in JEI wenn ihr nach "@colo" sucht. Um das Gebäude zu Platzieren, nehmt das Build Tool, welches sich in eurem Supply Camp befindet oder craftet euch selbst eins.
 Ist der Builder platziert, könnt ihr in der Gui einen Builder anstellen und den Bau des Builders in Auftrag geben. Da der Builder die Gebäude maximal auf das Level seiner Builders Hut upgraden kann, hat der Bau und Ausbau des Builders häufig Priorität. Jedoch fordert der Builder auf jeder Ausbaustufe immer exotischere Materialien.
 
+
+## Der weitere Aufbau der Kolonie
 Sobald eure Builders Hut steht, solltet ihr über 2 Dinge nachdenken:
 - Wohnraum für eure Bewohner
 - Produktionsstätten
