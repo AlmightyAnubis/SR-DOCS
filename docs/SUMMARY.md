@@ -19,6 +19,7 @@
 		* [Aktionskarten](parkour/aktionskarten.md)
     * [Spielmodus](parkour/spielmodus.md)
 * [Forge Server](server/forge-server.md)
+    * [Regeln](forge/regeln.md)
     * [Modpack installation](forge/Modpack_installation.md)
     * [Minecolonies](forge/minecolonies.md)
 * [Unser Team](team/mitglieder.md)
