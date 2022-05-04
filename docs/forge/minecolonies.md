@@ -27,6 +27,8 @@ Um das Camp zu platzien, rechtsklickt mit ihm. Dann öffnet sich ein interface u
     ![Spiegeln](https://user-images.githubusercontent.com/62308030/166675749-d6aff56c-2299-454b-9906-09653e080601.png)
 === "Drehen"
     ![Drehen](https://user-images.githubusercontent.com/62308030/166675779-f7926b60-1bee-46ac-9360-9c9f1824aaa6.png)
+
+
 === "Bestätigen"
     ![Bestätigen](https://user-images.githubusercontent.com/62308030/166675806-1862a85c-b8d2-450b-8fa0-9a82eb0d8638.png)
 === "Abbrechen"
