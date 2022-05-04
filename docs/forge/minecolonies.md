@@ -1,6 +1,6 @@
 In Minecolonies geht es darum seine eigene Kolonie aufzubauen, die sich selbst versorgen und verteidigen kann. 
 
-Hier kann nur eine kleine einführung geben werden, weitere Details finden sich im Minecolonies Wiki -> ![Minecolonies Wiki](https://wiki.minecolonies.ldtteam.com)
+Hier kann nur eine kleine einführung geben werden, weitere Details finden sich im Minecolonies Wiki -> [Minecolonies Wiki](https://wiki.minecolonies.ldtteam.com)
 
 ## Wie man beginnt
 
