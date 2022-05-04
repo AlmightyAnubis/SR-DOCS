@@ -11,19 +11,25 @@ Zum Teil lassen sich in der Welt auch verlassene Kolonien finden, die ihr übern
 Habt ihr einen Ort gefunden, an dem ihr bauen wollt, setzt euer Supply Camp dort. Dieses enthält einfache Materialien, um mit eurer Kolonie zu beginnen. Dazu gehört auch die Town hall. 
 
 === "Land Supply Camp"
-    ![2022-05-04_12 48 37](https://user-images.githubusercontent.com/62308030/166667806-87872c23-64f0-4010-ae48-b27654fe82fe.png)
-=== "Supply Ship"
     ![2022-05-04_12 48 26](https://user-images.githubusercontent.com/62308030/166667821-009bb432-bc71-4963-9434-25128f3ff6d7.png)
+=== "Supply Ship"
+    ![2022-05-04_12 48 37](https://user-images.githubusercontent.com/62308030/166667806-87872c23-64f0-4010-ae48-b27654fe82fe.png)
+    
 
 
 Um das Camp zu platzien, rechtsklickt mit ihm. Dann öffnet sich ein interface und es entsteht eine Holographische Version des Camps. Mit dem Interface könnt ihr das Camp verschieben und so platzien, wie ihr das wollt. Ihr könnt die Gui jederzeit mit Esc verlassen und mit dem Camp Item wieder öffnen. Wenn ihr zufrieden seid, könnt ihr das Camp bestätigen. Es kann sein, das der Untergrund nicht passt. Dann werden euch die Blöcke markiert und euch gezeigt, was ihr damit machen müsst (z.B. Abbauen oder noch Blöcke setzen).
 
-=== "Gui zum Platzieren"
+=== "Vertikal Verschieben"
 ![Vertikal Verschieben](https://user-images.githubusercontent.com/62308030/166675743-14dd8f2d-1c1f-4669-98ae-e23cdeec5c71.png)
+=== "Horizontal Verschieben"
 ![Horizontal Verschieben](https://user-images.githubusercontent.com/62308030/166675751-64bcd341-87c2-4285-a6c7-1fdac6153aed.png)
+=== "Spiegeln"
 ![Spiegeln](https://user-images.githubusercontent.com/62308030/166675749-d6aff56c-2299-454b-9906-09653e080601.png)
+=== "Drehen"
 ![Drehen](https://user-images.githubusercontent.com/62308030/166675779-f7926b60-1bee-46ac-9360-9c9f1824aaa6.png)
+=== "Bestätigen"
 ![Bestätigen](https://user-images.githubusercontent.com/62308030/166675806-1862a85c-b8d2-450b-8fa0-9a82eb0d8638.png)
+=== "Abbrechen"
 ![Abbrechen](https://user-images.githubusercontent.com/62308030/166675812-c8ab9bcf-941c-4c7b-bec7-e57224503b98.png)
 
 
