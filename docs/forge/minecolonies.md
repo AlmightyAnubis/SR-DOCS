@@ -20,15 +20,13 @@ Habt ihr einen Ort gefunden, an dem ihr bauen wollt, setzt euer Supply Camp dort
 Um das Camp zu platzien, rechtsklickt mit ihm. Dann öffnet sich ein interface und es entsteht eine Holographische Version des Camps. Mit dem Interface könnt ihr das Camp verschieben und so platzien, wie ihr das wollt. Ihr könnt die Gui jederzeit mit Esc verlassen und mit dem Camp Item wieder öffnen. Wenn ihr zufrieden seid, könnt ihr das Camp bestätigen. Es kann sein, das der Untergrund nicht passt. Dann werden euch die Blöcke markiert und euch gezeigt, was ihr damit machen müsst (z.B. Abbauen oder noch Blöcke setzen).
 
 === "Vertikal Verschieben"
-    ![Vertikal Verschieben](https://user-images.githubusercontent.com/62308030/166675743-14dd8f2d-1c1f-4669-98ae-e23cdeec5c71.png)
+    ![Vertikal_Verschieben](https://user-images.githubusercontent.com/62308030/166675743-14dd8f2d-1c1f-4669-98ae-e23cdeec5c71.png)
 === "Horizontal Verschieben"
-    ![Horizontal Verschieben](https://user-images.githubusercontent.com/62308030/166675751-64bcd341-87c2-4285-a6c7-1fdac6153aed.png)
+    ![Horizontal_Verschieben](https://user-images.githubusercontent.com/62308030/166675751-64bcd341-87c2-4285-a6c7-1fdac6153aed.png)
 === "Spiegeln"
     ![Spiegeln](https://user-images.githubusercontent.com/62308030/166675749-d6aff56c-2299-454b-9906-09653e080601.png)
 === "Drehen"
     ![Drehen](https://user-images.githubusercontent.com/62308030/166675779-f7926b60-1bee-46ac-9360-9c9f1824aaa6.png)
-
-
 === "Bestätigen"
     ![Bestätigen](https://user-images.githubusercontent.com/62308030/166675806-1862a85c-b8d2-450b-8fa0-9a82eb0d8638.png)
 === "Abbrechen"
