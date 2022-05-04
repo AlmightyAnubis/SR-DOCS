@@ -32,7 +32,6 @@ Um das Camp zu platzien, rechtsklickt mit ihm. Dann öffnet sich ein interface u
 === "Abbrechen"
     ![Abbrechen](https://user-images.githubusercontent.com/62308030/166675812-c8ab9bcf-941c-4c7b-bec7-e57224503b98.png)
 
-
 Habt ihr das Supplycamp platziert, öffnet sich bei euren Achievments ein neuer Tab. Dem könnt ihr folgen, um eure Kolonie aufzubauen.
 === "Achievments"
 ![achievments](https://user-images.githubusercontent.com/62308030/166677922-26221a54-d362-4014-bcbe-54f9a1cb2eb3.png)
