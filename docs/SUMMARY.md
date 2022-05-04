@@ -18,5 +18,5 @@
     * [Baumodus](parkour/baumodus.md)
 		* [Aktionskarten](parkour/aktionskarten.md)
     * [Spielmodus](parkour/spielmodus.md)
-* [Forge Server](SR-DOCS/docs/server/minecolonies.md)
+* [Forge Server](server/minecolonies.md)
 * [Unser Team](team/mitglieder.md)
