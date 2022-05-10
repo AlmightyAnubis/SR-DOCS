@@ -94,6 +94,7 @@ Zudem hat der Builder noch ein paar weitere Einstellungen und Informationen:
 
 ## Der weitere Aufbau der Kolonie
 Sobald eure Builders Hut steht, solltet ihr über 2 Dinge nachdenken:
+
 - Wohnraum für eure Bewohner
 - Produktionsstätten
 
@@ -102,6 +103,7 @@ Für die ersten 4 Bewohner bietet sich die Taverne an. In ihr kommen bis zu 4 Be
 
 ### Produktionsstätten
 Die ersten Produktionsstätten die einem zur verfügung stehen sind:
+
 - die Mine
 - der Holzfäller
 - die Farm
