@@ -44,12 +44,52 @@ Habt ihr das Supplycamp platziert, öffnet sich bei euren Achievments ein neuer 
 
 
 ### Town Hall
-In eurem Supply Camp sollte sich eine Town Hall und das Build Tool befinden. Falls nicht, craftet euch selbst eins. Die Rezepte für alle Gebäude findet ihr in JEI (Just Enought Items, rechts, wenn ihr euer Inventar offen habt) wenn ihr nach "@colo" oder dem entsprechenden Begriff sucht. Um das Gebäude zu platzieren, nehmt das  Build Tool in die Hand und Rechtsklickt auf den Boden, wo ihr das Gebäude platzieren wollt. Dann öffnet sich erneut das Menü, welches sich bei dem Supply Camp geöffnet hat. Ihr könnt zwar hier das verschiedene Level auswählen, euer [Builder](### Builder's Hut) wird aber zuerst Level 1 bauen und ihr müsst dann bei allen Gebäuden die hören Level erst ausbauen lassen.
+In eurem Supply Camp sollte sich eine Town Hall und das Build Tool befinden. Falls nicht, craftet euch selbst eins. Die Rezepte für alle Gebäude findet ihr in JEI (Just Enought Items, rechts, wenn ihr euer Inventar offen habt) wenn ihr nach "@colo" oder dem entsprechenden Begriff sucht. Um das Gebäude zu platzieren, nehmt das  Build Tool in die Hand und Rechtsklickt auf den Boden, wo ihr das Gebäude platzieren wollt. Dann öffnet sich erneut das Menü, welches sich bei dem Supply Camp geöffnet hat. Ihr könnt zwar hier das verschiedene Level auswählen, euer [Builder](#builders-hut) wird aber zuerst Level 1 bauen und ihr müsst dann bei allen Gebäuden die hören Level erst ausbauen lassen.
+Habt ihr die Town Hall platziert, könnt ihr den Townhall Block anklicken und eure neue Kolonie gründen. Kurze Zeit später werden dann eure ersten 4 Siedler spawnen.
 
 
 ### Builder's Hut
 Als nächstes solltet ihr eure Builder Hut platzieren. 
 Ist der Builder platziert, könnt ihr in der Gui einen Builder anstellen und den Bau des Builders in Auftrag geben. Da der Builder die Gebäude maximal auf das Level seiner Builders Hut upgraden kann, hat der Bau und Ausbau des Builders häufig Priorität. Jedoch fordert der Builder auf jeder Ausbaustufe immer exotischere Materialien.
+Ab Beispiel des Builders lassen sich die Einstellungen zu den Gebäuden gut erklären:
+=== "Hauptseite"
+    !!! note ""
+        Hier befinden sich die Einstellungen zu den Arbeitern und das Inventar
+    ![all_settings](https://user-images.githubusercontent.com/62308030/167732186-529f2512-8aa0-44c1-b86c-8ead697f445e.png)
+=== "Arbeiter Einstellungen"
+    !!! note ""
+        Hier lassen sich die Arbeiter verwalten
+    ![all_settings_worker](https://user-images.githubusercontent.com/62308030/167732505-7dc41f6c-ea17-4536-9799-9f05892ca472.png)
+=== "Arbeiter zurückrufen"
+    !!! note ""
+        Mit dem Knopf wird der Arbeiter an die Work Station gerufen. Das stopt kurz alle seine Arbeiten, kann ihn aber befreien, wenn er irgendwo feststeckt.
+    ![all_settings_recall](https://user-images.githubusercontent.com/62308030/167732666-504be9aa-43e8-45aa-a1c6-bc4d4da73613.png)
+=== "Bau Optionen"
+    !!! note ""
+        Damit kann man das jeweilige Gebäude upgraden, reparieren oder abreißen lassen.
+    ![all_settings_build](https://user-images.githubusercontent.com/62308030/167732682-c5a26de0-2546-4065-b5c3-f3f17bc4efaf.png)
+=== "Minimaler Lagerbestand"
+    !!! note ""
+        Einstellung, wie viel in der Hütte immer vorgehalten werden soll. Kann das bauen beschleunigen, wenn nicht immer erst Resourcen bestellt werden müssen.
+    ![min_stock](https://user-images.githubusercontent.com/62308030/167732777-8740364c-0c8e-4090-9d65-57820f279f6e.png)
+
+Zudem hat der Builder noch ein paar weitere Einstellungen und Informationen:
+=== "Einstellungen"
+    !!! note ""
+        Einstellungen zur Builders Hut. Zum Beispiel, welcher Block zum füllen genutzt werden soll.
+    ![einstellungen](https://user-images.githubusercontent.com/62308030/167732957-1aa1ae41-4fed-4a20-826e-4da2f2239ff8.png)
+=== "Rezepte"
+    !!! note ""
+        Rezepte, die der Builder nutzen kann. Mit "Teach Recipe" können neue Rezepte beigebracht werden.
+    ![rezepte](https://user-images.githubusercontent.com/62308030/167733050-be343d91-4947-4906-92f7-d01caa0a9662.png)
+=== "Bauprojekte"
+    !!! note ""
+        Projekte, an denen der Builder arbeitet
+    ![Bauprojekte](https://user-images.githubusercontent.com/62308030/167733178-fa726018-b78f-4403-bdd7-5aed54efd65a.png)
+=== "Benötigte Materialien"
+    !!! note ""
+        Materialien, die für den aktuellen Bau benötigt werden. Mit dem Pfeil neben den Materialien, können die Materialien abgegeben werden. Ist die Anzahl grün, sind genug Materialien vorhanden
+    ![materialien](https://user-images.githubusercontent.com/62308030/167733235-2f2df986-74b7-4227-81f1-be9c0ef0cabf.png)
 
 
 ## Der weitere Aufbau der Kolonie
