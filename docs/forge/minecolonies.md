@@ -19,6 +19,12 @@ Habt ihr einen Ort gefunden, an dem ihr bauen wollt, setzt euer Supply Camp dort
 
 Um das Camp zu platzien, rechtsklickt mit ihm. Dann öffnet sich ein interface und es entsteht eine Holographische Version des Camps. Mit dem Interface könnt ihr das Camp verschieben und so platzien, wie ihr das wollt. Ihr könnt die Gui jederzeit mit Esc verlassen und mit dem Camp Item wieder öffnen. Wenn ihr zufrieden seid, könnt ihr das Camp bestätigen. Es kann sein, das der Untergrund nicht passt. Dann werden euch die Blöcke markiert und euch gezeigt, was ihr damit machen müsst (z.B. Abbauen oder noch Blöcke setzen).
 
+=== "Gebäudeklasse"
+    ![Klasse](https://user-images.githubusercontent.com/62308030/167667251-bf37ba14-d46d-4a88-a8e3-9c78f82b33b8.png)
+=== "Gebäudeart"
+    ![Art](https://user-images.githubusercontent.com/62308030/167667144-71b70c18-6e07-4524-a24e-2e0aec262932.png)
+=== "Gebäudelevel"
+    ![level](https://user-images.githubusercontent.com/62308030/167667357-ec9e91e5-5279-4cfc-9e86-59e416dc2a66.png)
 === "Vertikal Verschieben"
     ![Vertikal_Verschieben](https://user-images.githubusercontent.com/62308030/166675743-14dd8f2d-1c1f-4669-98ae-e23cdeec5c71.png)
 === "Horizontal Verschieben"
@@ -36,8 +42,13 @@ Habt ihr das Supplycamp platziert, öffnet sich bei euren Achievments ein neuer 
 === "Achievments"
 ![achievments](https://user-images.githubusercontent.com/62308030/166677922-26221a54-d362-4014-bcbe-54f9a1cb2eb3.png)
 
+
+### Town Hall
+In eurem Supply Camp sollte sich eine Town Hall und das Build Tool befinden. Falls nicht, craftet euch selbst eins. Die Rezepte für alle Gebäude findet ihr in JEI (Just Enought Items, rechts, wenn ihr euer Inventar offen habt) wenn ihr nach "@colo" oder dem entsprechenden Begriff sucht. Um das Gebäude zu platzieren, nehmt das  Build Tool in die hand und rechtsklickt auf den Boden, wo ihr das Gebäude platzieren wollt. Dann öffnet sich erneut das Menü, welches sich bei dem Supply Camp geöffnet hat.
+
+
 ### Builder's Hut
-Als nächstes solltet ihr eure Builder Hut platzier. Die Rezepte für alle Gebäude findet ihr in JEI wenn ihr nach "@colo" sucht. Um das Gebäude zu Platzieren, nehmt das Build Tool, welches sich in eurem Supply Camp befindet oder craftet euch selbst eins.
+Als nächstes solltet ihr eure Builder Hut platzieren. 
 Ist der Builder platziert, könnt ihr in der Gui einen Builder anstellen und den Bau des Builders in Auftrag geben. Da der Builder die Gebäude maximal auf das Level seiner Builders Hut upgraden kann, hat der Bau und Ausbau des Builders häufig Priorität. Jedoch fordert der Builder auf jeder Ausbaustufe immer exotischere Materialien.
 
 
