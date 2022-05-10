@@ -2,7 +2,7 @@ Es gibt 2 Formen von Generatoren: Den Overworld- und den Nether-Generator. Wie m
 
 === "Overworld-Generator"
     !!! note ""
-       Der Overworld-Generator ist ein Bruchsteingenerator und produziert primär Resourcen, die man auch in der Overworld finden kann.
+        Der Overworld-Generator ist ein Bruchsteingenerator und produziert primär Resourcen, die man auch in der Overworld finden kann.
     ![Bruchstein_Generator](../assets/images/oreGen/Bruchstein_Generator.png)
 === "Nether-Generator"
     !!! note ""
