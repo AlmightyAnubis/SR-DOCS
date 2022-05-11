@@ -87,9 +87,9 @@ Zudem hat der Builder noch ein paar weitere Einstellungen und Informationen:
     !!! note ""
         Projekte, an denen der Builder arbeitet
     ![Bauprojekte](https://user-images.githubusercontent.com/62308030/167733178-fa726018-b78f-4403-bdd7-5aed54efd65a.png)
-=== "Benötigte Materialien"
+=== "Benötigte Materialien" <a name="neededMaterial"></a> 
     !!! note ""
-        Materialien, die für den aktuellen Bau benötigt werden. Mit dem Pfeil neben den Materialien, können die Materialien abgegeben werden. Ist die Anzahl grün, sind genug Materialien vorhanden <a name="neededMaterial"></a> 
+        Materialien, die für den aktuellen Bau benötigt werden. Mit dem Pfeil neben den Materialien, können die Materialien abgegeben werden. Ist die Anzahl grün, sind genug Materialien vorhanden
     ![materialien](https://user-images.githubusercontent.com/62308030/167733235-2f2df986-74b7-4227-81f1-be9c0ef0cabf.png)
 
 
