@@ -50,7 +50,8 @@ Habt ihr die Town Hall platziert, könnt ihr den Townhall Block anklicken und eu
 
 ### Builder's Hut
 Als nächstes solltet ihr eure Builder Hut platzieren. 
-Ist der Builder platziert, könnt ihr in der Gui einen Builder anstellen und den Bau des Builders in Auftrag geben. Da der Builder die Gebäude maximal auf das Level seiner Builders Hut upgraden kann, hat der Bau und Ausbau des Builders häufig Priorität. Jedoch fordert der Builder auf jeder Ausbaustufe immer exotischere Materialien.
+Ist der Builder platziert, könnt ihr in der Gui einen Builder anstellen und den Bau des Builders in Auftrag geben. Damit er Gebäude bauen kann, benötigt er verschiedene Materialien. Diese findet ihr in seiner [Gui](#neededMaterial) und könnt sie dort auch abgeben. Weiterhin hilfreich sind die Resource Scroll, mit der ihr die benötigten Materialien des Builders mobil abfragen könnt. Dafür müsst ihr einmal mit ihr Shift-Rechtsklicken auf den Builder, um sie zu linken. Das Clipboard hat eine ähnliche Funktion, zeigt jedoch die Materialien an, die in der gesammten Kolonie fehlen und wird auf die Town Hall gelinked.
+Da der Builder die Gebäude maximal auf das Level seiner Builders Hut upgraden kann, hat der Bau und Ausbau des Builders häufig Priorität. Jedoch fordert der Builder auf jeder Ausbaustufe immer exotischere Materialien.
 Ab Beispiel des Builders lassen sich die Einstellungen zu den Gebäuden gut erklären:
 === "Hauptseite"
     !!! note ""
@@ -86,7 +87,7 @@ Zudem hat der Builder noch ein paar weitere Einstellungen und Informationen:
     !!! note ""
         Projekte, an denen der Builder arbeitet
     ![Bauprojekte](https://user-images.githubusercontent.com/62308030/167733178-fa726018-b78f-4403-bdd7-5aed54efd65a.png)
-=== "Benötigte Materialien"
+=== <a name="neededMaterial"></a> "Benötigte Materialien"
     !!! note ""
         Materialien, die für den aktuellen Bau benötigt werden. Mit dem Pfeil neben den Materialien, können die Materialien abgegeben werden. Ist die Anzahl grün, sind genug Materialien vorhanden
     ![materialien](https://user-images.githubusercontent.com/62308030/167733235-2f2df986-74b7-4227-81f1-be9c0ef0cabf.png)
