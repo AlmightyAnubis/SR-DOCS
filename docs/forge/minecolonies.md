@@ -51,7 +51,9 @@ Habt ihr die Town Hall platziert, könnt ihr den Townhall Block anklicken und eu
 ### Builder's Hut
 Als nächstes solltet ihr eure Builder Hut platzieren. 
 Ist der Builder platziert, könnt ihr in der Gui einen Builder anstellen und den Bau des Builders in Auftrag geben. Damit er Gebäude bauen kann, benötigt er verschiedene Materialien. Diese findet ihr in seiner [Gui](#neededMaterial) und könnt sie dort auch abgeben. Weiterhin hilfreich sind die Resource Scroll, mit der ihr die benötigten Materialien des Builders mobil abfragen könnt. Dafür müsst ihr einmal mit ihr Shift-Rechtsklicken auf den Builder, um sie zu linken. Das Clipboard hat eine ähnliche Funktion, zeigt jedoch die Materialien an, die in der gesammten Kolonie fehlen und wird auf die Town Hall gelinked.
+
 Da der Builder die Gebäude maximal auf das Level seiner Builders Hut upgraden kann, hat der Bau und Ausbau des Builders häufig Priorität. Jedoch fordert der Builder auf jeder Ausbaustufe immer exotischere Materialien.
+
 Ab Beispiel des Builders lassen sich die Einstellungen zu den Gebäuden gut erklären:
 === "Hauptseite"
     !!! note ""
