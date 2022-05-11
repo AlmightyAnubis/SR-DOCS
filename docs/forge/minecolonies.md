@@ -74,7 +74,7 @@ Ab Beispiel des Builders lassen sich die Einstellungen zu den Gebäuden gut erkl
         Einstellung, wie viel in der Hütte immer vorgehalten werden soll. Kann das bauen beschleunigen, wenn nicht immer erst Resourcen bestellt werden müssen.
     ![min_stock](https://user-images.githubusercontent.com/62308030/167732777-8740364c-0c8e-4090-9d65-57820f279f6e.png)
 
-Zudem hat der Builder noch ein paar weitere Einstellungen und Informationen:
+Zudem hat der Builder noch ein paar weitere Einstellungen und Informationen: <a name="neededMaterial"></a>
 === "Einstellungen"
     !!! note ""
         Einstellungen zur Builders Hut. Zum Beispiel, welcher Block zum füllen genutzt werden soll.
@@ -90,7 +90,7 @@ Zudem hat der Builder noch ein paar weitere Einstellungen und Informationen:
 === "Benötigte Materialien" 
     !!! note ""
         Materialien, die für den aktuellen Bau benötigt werden. Mit dem Pfeil neben den Materialien, können die Materialien abgegeben werden. Ist die Anzahl grün, sind genug Materialien vorhanden
-    ![materialien](https://user-images.githubusercontent.com/62308030/167733235-2f2df986-74b7-4227-81f1-be9c0ef0cabf.png)<a name="neededMaterial"></a>
+    ![materialien](https://user-images.githubusercontent.com/62308030/167733235-2f2df986-74b7-4227-81f1-be9c0ef0cabf.png)
 
 
 ## Der weitere Aufbau der Kolonie
